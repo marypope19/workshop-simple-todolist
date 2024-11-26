@@ -1,0 +1,11 @@
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: .6;
+  color: gray;
+}
